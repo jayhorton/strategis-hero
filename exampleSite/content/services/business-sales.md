@@ -1,53 +1,24 @@
 ---
-title: 'Business Sales'
+title: 'Supply Chain Planning'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'Supply Chain Planning'
+heroSubHeading: 'Supply chains are the unit of strategic competition
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Companies don't compete. Supply chains are the unit of strategic competition.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+We advise Clients who are making important decisions on the future of their company’s production and distribution chain.
 
-## Geniti facinus praeruptam atris ab manus in
+With our modelling frameworks, you can address the main forces driving the future of supply chains - de-globalisation, rising labour and raw materials costs, and volatile energy prices - improving your ability to anticipate shifts in supply and demand, and develop a robust supply chain strategy in a changing economy.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+You will benefit from our strategic approach to network planning, optimising your overall logistics chain and ensuring the performance of your transport service is world-class.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+If you're planning to adopt systems to improve your supply chain decision-making, let us show you how to maximise the return on your investment and minimise risks. 
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+We work with clients in airlines and airports, manufacturing, post and courier, rail freight, shipping and ports, and urban transit.
 
-## Vidit si probetne vertitur
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.

@@ -1,6 +1,6 @@
-baseURL = "https://www.example.com/"
+baseURL = "ttps://strategispartners.netlify.app/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Strategis Partners"
 themesDir = "../.."
 theme = "hugo-hero-theme"
 

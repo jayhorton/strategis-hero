@@ -10,8 +10,6 @@ heroSubHeading: 'Matching strategy and organisation to a changing marketplace'
 heroBackground: 'services/service2.jpg'
 ---
 
-## High Performance Strategy
-
 Successfully managing strategic change and achieving breakthrough performance is rarely realised alone. The best organisations engage strategic partners to provide the specialist skills they simply do not have themselves - ensuring better decisions, greater resilience and a thriving future.
 
 Whether you need to design new organisational and business models, build a better business case for investment approval or develop your strategy to succeed in a dynamic environment, Strategis Partners can help.

@@ -10,9 +10,9 @@ heroSubHeading: 'Anticipate and respond to future trends and uncertainties with 
 heroBackground: 'services/service1.jpg'
 ---
 
-# Managing Uncertainty
-
 The only constant today is faster, broader and more uncertain change. Companies that successfully manage in this era have a major competitive edge.
+
+# Managing Uncertainty
 
 Uncertainty means not knowing what new trends, discontinuities and events will make up tomorrow. So strategic planning must be discovery driven, involving experimentation and learning, rather than simply being an analytical exercise.
 Superior performance starts with anticipating future changes. But making assumptions about what the world will look like based on how it used to look ignores the inherent unpredictability of business. 

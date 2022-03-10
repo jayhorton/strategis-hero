@@ -1,4 +1,4 @@
-baseURL = "ttps://strategispartners.netlify.app/"
+baseURL = "https://strategispartners.netlify.app/"
 languageCode = "en-us"
 title = "Strategis Partners"
 themesDir = "../.."
@@ -22,8 +22,8 @@ theme = "hugo-hero-theme"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "Founded in 2004, Strategis Partners is an independent management consulting firm, recognised for our insight on strategy and analytics."
+    meta_og_title = "Strategis Partners"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"

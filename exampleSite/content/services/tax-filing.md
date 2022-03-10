@@ -1,50 +1,23 @@
 ---
-title: 'Tax Filing'
+title: 'Strategy'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Tax Filing '
-heroSubHeading: 'Preparing and filing your tax return'
+heroHeading: 'Strategy'
+heroSubHeading: 'Matching strategy and organisation to a changing marketplace'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+# High Performance Strategy
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+Successfully managing strategic change and achieving breakthrough performance is rarely realised alone. The best organisations engage strategic partners to provide the specialist skills they simply do not have themselves - ensuring better decisions, greater resilience and a thriving future.
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+Whether you need to design new organisational and business models, build a better business case for investment approval or develop your strategy to succeed in a dynamic environment, Strategis Partners can help.
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+We are experienced in strategic and organisational development, from long-range scenario planning to strategic sourcing, decision and risk analysis, major asset development and much more.
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+## Let us help you match your company's strategy and organisation for higher performance.
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+Strategy is all about finding the diamond in the rough. We help our clients find the gem of an idea that changes the company. But opportunities must be seized proficiently and acted upon. The company's business model-its value proposition and operating model-must be aligned with strategic direction.

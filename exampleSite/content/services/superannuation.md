@@ -1,56 +1,26 @@
 ---
-title: 'Superannuation'
+title: 'Operations Research'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
 draft: false
-heroHeading: 'Superannuation'
-heroSubHeading: 'Saving for retirement requires careful planning.'
+heroHeading: 'Operations Research'
+heroSubHeading: 'The purpose of Operations Research is insight, not numbers'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+Our clients – large and small, private and public, for-profit and not-for-profit – are using operations research (O.R.) to unlock the value in their data, model complex systems, and make better decisions with less risk. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Typically, O.R. projects target improved operating performance using data and analytics, for example to: 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+1) improve coordination through better matching of supply with demand 
+2) contain rising costs of production 
+3) make better decisions about why, where, and how much to invest in operations
+4) deal with peak capacity problems 
+5) manage volatility in supply chains
+6) add value to commodities by solving service and product quality issues; and 
+7) manage risk in operations. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Whether O.R. is used to inform high-level strategy or improve day-to-day operations, the results speak for themselves: Insight into difficult problems. Improved processes, productivity, and performance. Millions in cost savings and increased revenues. More (and better) options. Accurate predictions, plans, and forecasts. More profitable pricing. Greater market share. Higher quality. Superior ROI. More satisfied customers.
 
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.

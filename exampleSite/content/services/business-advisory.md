@@ -9,9 +9,16 @@ heroSubHeading: 'All organisations periodically face issues that require an "out
 heroBackground: 'services/service2.jpg'
 ---
 
-Strategy and Program reviews with external facilitation are an effective catalyst for meaningful change.
+Strategy and Program reviews with external facilitation are an effective catalyst for meaningful change. All organisations periodically face issues that require an "outside" perspective, or are bigger than each individual division or business unit:
 
-Some motivating questions include:
+- How should we deal with a major change in the business environment? - How should we address growing concern over a company Program?
+- How should we respond to new developments in technology?
+- How can we broadly identify more growth opportunities?
+
+While most companies invest significant time and effort in formal planning and review processes, not all executives think
+
+
+Some direction-setting questions include:
 
 - Is the Program delivering the benefits envisaged originally?
 - Does the Program position the organisation well for the future?

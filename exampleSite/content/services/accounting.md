@@ -6,7 +6,7 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'Scenario Planning'
-heroSubHeading: 'Anticipate and respond to future trends and uncertainties with our scenario planning methods'
+heroSubHeading: 'Anticipate and respond to future trends and uncertainties with our scenario planning'
 heroBackground: 'services/service1.jpg'
 ---
 

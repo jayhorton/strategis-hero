@@ -1,6 +1,6 @@
 ---
 title: 'About'
-date: 2018-12-06T09:29:16+10:00
+date: 2022-03-10T09:29:16+10:00
 layout: 'about'
 heroHeading: 'About Us'
 heroSubHeading: "Helping leaders chart their best course in a world of faster, broader and uncertain change"

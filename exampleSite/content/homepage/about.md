@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Advising leaders of corporations and governments on charting their best course in a dynamic world.

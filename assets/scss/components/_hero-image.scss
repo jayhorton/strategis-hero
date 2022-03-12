@@ -22,6 +22,7 @@
     margin: auto 0;
     h1 {
       font-size: 3rem;
+      color: #DD5825;
       @include media-breakpoint-up(md) {
         font-size: 4rem;
         width: 80%;
@@ -29,6 +30,7 @@
     }
     h2 {
       font-size: 2.2rem;
+      color #ACACAC;
       @include media-breakpoint-up(md) {
         font-size: 2.4rem;
       }
